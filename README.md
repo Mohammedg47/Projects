@@ -49,4 +49,4 @@ Analyzes physical measurements of banknotes (diagonal, margins, height, length) 
 
 ## Author
 
-Mohammed — Electrical Engineering student at NC State University (Class of 2027)
+Mohammed Umar Gattu — Electrical Engineering student at NC State University
