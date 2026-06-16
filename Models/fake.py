@@ -41,7 +41,7 @@ def main():
     features = ['diagonal', 'height_left', 'height_right', 'margin_low', 'margin_up', 'length', 'area_left', 'area_right']
     
     # Plot unnormalized
-    #plot_features(df, features, title_suffix='(Unnormalized)')
+    plot_features(df, features, title_suffix='(Unnormalized)')
     
     # Normalize
     scaler = StandardScaler()
